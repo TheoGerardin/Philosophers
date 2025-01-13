@@ -1,4 +1,4 @@
-NAME = philo
+NAME = philosophers
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -lpthread -lrt
 AR = ar
